@@ -97,3 +97,22 @@ O sistema deve permitir:
 - **Atualizar a quantidade em estoque**;
 - **Listar todos os produtos**.
 
+## **Dia 4: Fila de Pedidos de Restaurante**
+
+Desafio do Dia: Sistema de Fila de Pedidos
+Hoje, vamos trabalhar com filas, uma estrutura de dados que segue o princípio "primeiro a entrar, primeiro a sair" (FIFO). Neste desafio, implementaremos uma fila para gerenciar os pedidos de um restaurante.
+
+### 📝 **Requisitos**
+Cada pedido deve ser representado por:
+
+- **Número do pedido;**
+- **Nome do cliente;**
+- **Nome do prato;**
+- **Mesa em que o pedido foi feito.**
+
+### 🚀 **Funcionalidades**
+O sistema deve permitir:
+
+- **Adicionar novos pedidos à fila;**
+- **Remover pedidos que já foram entregues;**
+- **Listar todos os pedidos na ordem em que foram feitos.**

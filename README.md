@@ -116,3 +116,30 @@ O sistema deve permitir:
 - **Adicionar novos pedidos à fila;**
 - **Remover pedidos que já foram entregues;**
 - **Listar todos os pedidos na ordem em que foram feitos.**
+
+## **Dia 5: Pilha de Livros**
+
+Desafio do Dia: Gerenciamento de Pilha de Livros
+Hoje, vamos trabalhar com **pilhas**, uma estrutura de dados que segue o princípio **"último a entrar, primeiro a sair"** (LIFO - *Last In, First Out*). Neste desafio, implementaremos uma pilha para gerenciar os livros da saga **As Crônicas de Gelo e Fogo** (Game of Thrones).
+
+### 📝 **Requisitos**
+Cada livro deve ser representado por:
+
+- **Título do livro;**
+- **Número de páginas.**
+
+### 🚀 **Funcionalidades**
+O sistema deve permitir:
+
+- **Adicionar novos livros à pilha (push);**
+- **Remover livros do topo da pilha (pop);**
+- **Exibir o livro que está no topo (peek);**
+- **Listar todos os livros na pilha.**
+
+### 🔎 **O que é uma Pilha?**
+Uma **pilha** funciona como uma pilha de pratos: você sempre coloca um novo prato no topo, e quando precisa remover, tira o prato que está no topo primeiro. Assim, a ordem de remoção é **o inverso da ordem de inserção**.
+
+### 📌 Operações principais:
+- **Push**: Adiciona um novo livro ao topo da pilha.
+- **Pop**: Remove o livro do topo da pilha.
+- **Peek**: Apenas visualiza o livro do topo, sem removê-lo.

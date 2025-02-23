@@ -143,3 +143,35 @@ Uma **pilha** funciona como uma pilha de pratos: você sempre coloca um novo pra
 - **Push**: Adiciona um novo livro ao topo da pilha.
 - **Pop**: Remove o livro do topo da pilha.
 - **Peek**: Apenas visualiza o livro do topo, sem removê-lo.
+
+## **Dia 6: Sistema de Pontuação de Jogos Online**
+
+**Desafio do Dia:** Sistema de Pontuação de Jogos Online  
+Hoje, vamos trabalhar com **hashmaps** para implementar um sistema de pontuação para jogos online.
+
+### 📝 **Requisitos**
+Cada jogador deve ser representado por:
+
+- **Nome de usuário**;
+- **Número de pontos**.
+
+### 🚀 **Funcionalidades**
+
+O sistema deve permitir:
+
+- **Adicionar novos jogadores ao sistema**;
+- **Atualizar a pontuação de jogadores existentes**;
+- **Remover jogadores**;
+- **Listar todos os jogadores em ordem decrescente de pontos**;
+- **Determinar o jogador vencedor**, ou seja, o que tem mais pontos.
+
+### 🔎 **O que é um HashMap?**
+
+Um **HashMap** é uma estrutura de dados que armazena valores associados a chaves, permitindo o acesso eficiente aos valores por meio dessas chaves.
+
+### 📌 **Operações principais:**
+
+- **Adicionar/Atualizar**: Adiciona ou atualiza um jogador no sistema.
+- **Remover**: Remove um jogador do sistema.
+- **Listar**: Exibe todos os jogadores em ordem de pontos.
+- **Vencedor**: Exibe o jogador com a maior pontuação.

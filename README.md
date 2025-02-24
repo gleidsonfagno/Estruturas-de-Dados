@@ -175,3 +175,23 @@ Um **HashMap** é uma estrutura de dados que armazena valores associados a chave
 - **Remover**: Remove um jogador do sistema.
 - **Listar**: Exibe todos os jogadores em ordem de pontos.
 - **Vencedor**: Exibe o jogador com a maior pontuação.
+
+## **Dia 7: Sistema de Gerenciamento de Estoque com Árvore Binária**
+
+O desafio do dia é implementar um **sistema de gerenciamento de estoque** para uma loja online usando **árvores binárias**.
+
+### **📝 Requisitos**
+
+Cada produto deve ter:
+
+- **ID do produto** (um número inteiro único);
+- **Nome do produto**;
+- **Quantidade em estoque**.
+
+### **🚀 Funcionalidades**
+
+O sistema deve permitir:
+
+- **Adicionar novos produtos à árvore**;
+- **Atualizar as informações de um produto existente** caso o ID já esteja na árvore;
+- **Buscar um produto pelo ID e exibir suas informações** (opcional).

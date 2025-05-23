@@ -195,3 +195,7 @@ O sistema deve permitir:
 - **Adicionar novos produtos à árvore**;
 - **Atualizar as informações de um produto existente** caso o ID já esteja na árvore;
 - **Buscar um produto pelo ID e exibir suas informações** (opcional).
+
+- [binarytree](https://pypi.org/project/binarytree/)
+- [arvore](https://mange.ifrn.edu.br/python/aprenda-com-py3/capitulo_20.html)
+- [Artigo sobre arvore](https://empresas.alura.com.br/e3t/Ctc/I8+113/d2z6gD04/VVxP406FchPLW75ZbsM9lZfRTW6wcfC_5snq9yN3rtP7-3qgyTW95jsWP6lZ3kyW629Dp82Vj3KyVxm6fZ4LnJBCN1KDf1LssWBwW8dGNWT39jPbTW59mNTh5sN16xW567QTQ7h6Y5pW7n6VnC5GgVvbW3xHN2w2XM0n1W2cGsnt6w9cT_N2qLPPYDHxmDW6mwTf63_QjJfW289CjH2YPV2sW6Wv5f37Q21TxVZL5jX3vC1zHW4FftbJ2QllbPW3LLQ2N9bNp72W3JLR0x8fv1vfW8ngT4q8b3jpJW5YFv5J6fKBQbW6n1nq81k_h1kN4hqlR9YcdNfW7h3brc7nl6hLW2YfdBB2FTF9wW4fC9Lp5hfK2mW18HP2M1Yt2YRN1_6KY35SgTVN2bTPqXRCMMwW432Rz62d4QbMW6QJqyN6sHqdwW2KfCmw4LBCzyf955H3K04)
